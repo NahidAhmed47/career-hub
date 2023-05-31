@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.primary-color{
+  @apply text-[#5B54FA]
+}
+.secondary-color{
+  @apply text-[#538FFB]
+}
+.primary-btn{
+  @apply px-3 md:px-4 py-1 md:py-2 bg-gradient-to-r from-[#5B54FA] to-[#538FFB] text-base md:text-lg font-mono font-semibold rounded-full text-white hover:from-[#538FFB] hover:to-[#5B54FA] duration-300  hover:scale-[0.98]
+}
+.btn-outfield{
+  @apply px-3  py-1 border-2 border-[#538FFB] text-base  font-mono font-semibold rounded-full text-[#538FFB] hover:scale-[0.98]
+}
+.isActive{
+  @apply text-[#5B54FA] border-b border-[#5B54FA] font-bold
+}
+.icon{
+  @apply w-6 h-6 md:w-8 md:h-8 text-black
+}
+.subtitle{
+  @apply text-sm md:text-base my-2  text-slate-600
+}
+.subtitle-details{
+  @apply text-sm md:text-base  text-slate-600
+}
+.head-title{
+  @apply text-xl md:text-3xl font-bold primary-color text-center
+}
+.title{
+  @apply text-base md:text-xl font-bold text-gray-800 my-2 md:mt-4 
+}
+.max-body{
+  @apply max-w-[1250px] mx-auto px-3 md:px-8
+}
+.mini-icon{
+  @apply w-5 h-5 font-semibold
+}
+.mini-title{
+  @apply text-base font-bold text-gray-800
+}
+.show-all-data-btn{
+  @apply text-center text-lg font-mono font-semibold primary-color hover:underline hover:text-red-500 duration-200 mt-5 md:mt-8
+}

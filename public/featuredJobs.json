@@ -1,0 +1,194 @@
+{
+  "job_circulars": [
+    {
+      "id": 1,
+      "company_logo": "https://ugc.trycircular.com/image_efb477fe-0b03-4426-b9c5-0b7a52a754e9.PNG",
+      "job_title": "Senior Software Engineer",
+      "company_name": "Sinch Software",
+      "job_type": "onsite",
+      "location": "New york, USA",
+      "job_duration": "full-time",
+      "salary": "$150k - $200k",
+      "description": "We're looking for a senior software engineer to help us build and maintain scalable, high-performance web applications. The ideal candidate will have experience with modern web frameworks and cloud technologies, as well as a passion for writing clean, maintainable code.",
+      "responsibility": "Design, develop, and maintain web applications and services. Collaborate with cross-functional teams to identify and implement new features and functionality. Optimize applications for performance, scalability, and security. Stay up-to-date with emerging trends and technologies in web development.",
+      "educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field",
+      "experience": "5+ years of experience in software engineering",
+      "contract_info": {
+        "phone":"+0199XXXXXXX",
+        "email":"sincesoftware@email.com",
+        "address":"New York, D-4509, USA"
+      }
+    },
+    {
+      "id": 2,
+      "company_logo": "https://logo.clearbit.com/www.openbravo.com",
+      "job_title": "Product Manager",
+      "company_name": "Oyolo Tech",
+      "job_type": "onsite",
+      "location": "San Francisco",
+      "job_duration": "full-time",
+      "salary": "$110k - $180k",
+      "description": "We're seeking an experienced product manager to help us define and execute on our product vision. The ideal candidate will have experience with product strategy, user research, and agile development methodologies.",
+      "responsibility": "Develop and execute on product strategy and roadmap. Conduct user research and gather feedback to inform product decisions. Collaborate with cross-functional teams to define product requirements and priorities. Manage product launches and releases.",
+      "educational_requirements": "Bachelor's degree in Business Administration, Computer Science, or a related field",
+      "experience": "5+ years of experience in product management",
+      "contract_info": {
+        "phone":"+0199XXXXXXX",
+        "email":"xyz@email.com",
+        "address":"California, D-4509, USA"
+      }
+    },
+    {
+      "id": 3,
+      "company_logo": "https://logo.clearbit.com/www.amurait.com",
+      "job_title": "Senior UX Designer",
+      "company_name": "DEF Design",
+      "job_type": "onsite",
+      "location": "New York City",
+      "job_duration": "full-time",
+      "salary": "$140k - $200k",
+      "description": "We're seeking a senior UX designer to help us create beautiful, intuitive user experiences for our products. The ideal candidate will have experience with user-centered design principles, as well as a portfolio showcasing their design work.",
+      "responsibility": "Collaborate with product managers and engineers to define and execute on product design. Conduct user research and gather feedback to inform design decisions. Create wireframes, prototypes, and high-fidelity designs. Evangelize design thinking and user-centered design principles throughout the organization.",
+      "educational_requirements": "Bachelor's or Master's degree in Interaction Design, Graphic Design, Human-Computer Interaction, or a related field",
+      "experience": "7+ years of experience in UX design",
+      "contract_info": {
+        "phone":"+0199XXXXXXX",
+        "email":"deftech@email.com",
+        "address":"New York, D-4509, USA"
+      }
+    },
+    {
+        "id": 4,
+        "company_logo": "https://logo.clearbit.com/www.mimacom.com",
+        "job_title": "Full Stack Developer",
+        "company_name": "ABC Software",
+        "job_type": "remote",
+        "location": "Dhaka, Bangladesh",
+        "job_duration": "full-time",
+        "salary": "$120k - $250k",
+        "description": "We are seeking an experienced Full Stack Developer to join our team. The ideal candidate will have experience with modern web frameworks and cloud technologies.",
+        "responsibility": "Design, develop, and maintain web applications and services. Collaborate with cross-functional teams to identify and implement new features and functionality. Optimize applications for performance, scalability, and security. Stay up-to-date with emerging trends and technologies in web development.",
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field",
+        "experience": "5+ years of experience in software engineering",
+        "contract_info": {
+            "phone":"+0199XXXXXXX",
+            "email":"example@email.com",
+            "address":"Dhaka, Bangladesh"
+          }
+      },
+      {
+        "id": 5,
+        "company_logo": "https://logo.clearbit.com/mindbly.com",
+        "job_title": "Data Analyst",
+        "company_name": "XYZ Corporation",
+        "job_type": "onsite",
+        "location": "Francisco, French",
+        "job_duration": "full-time",
+        "salary": "$130k - $220k",
+        "description": "We are looking for a Data Analyst to join our team. The ideal candidate will have experience in data analysis, data visualization, and statistical analysis.",
+        "responsibility": "Analyze and interpret complex data sets. Create visualizations and reports to communicate insights. Develop and implement data collection systems and other strategies that optimize statistical efficiency and data quality. Work with cross-functional teams to identify opportunities for data-driven solutions.",
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science, Statistics, or a related field",
+        "experience": "5+ years of experience in data analysis or a related field",
+        "contract_info": {
+            "phone":"+0199XXXXXXX",
+            "email":"intechab@email.com",
+            "address":"Francisco, French"
+          }
+      },
+      {
+        "id": 6,
+        "company_logo": "https://ugc.trycircular.com/image_dda1c6b6-52c9-41be-a445-11a9e6e32f07.PNG",
+        "job_title": "Software Engineer",
+        "company_name": "DEF Tech",
+        "job_type": "remote",
+        "location": "Room, Italy",
+        "job_duration": "full-time",
+        "salary": "$140k - $200k",
+        "description": "We are seeking a talented Software Engineer to join our team. The ideal candidate will have experience with modern web frameworks and cloud technologies.",
+        "responsibility": "Design, develop, and maintain software applications and services. Collaborate with cross-functional teams to identify and implement new features and functionality. Optimize applications for performance, scalability, and security. Stay up-to-date with emerging trends and technologies in software engineering.",
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field",
+        "experience": "3+ years of experience in software engineering",
+        "contract_info": {
+            "phone":"+0199XXXXXXX",
+            "email":"example@email.com",
+            "address":"Room, Italy"
+          }
+      },
+      {
+        "id": 7,
+        "company_logo": "https://logo.clearbit.com/www.capitole-consulting.com",
+        "job_title": "Cybersecurity Analyst",
+        "company_name": "JKL Tech",
+        "job_type": "onsite",
+        "location": "New York City",
+        "job_duration": "full-time",
+        "salary": "$150k - $250k",
+        "description": "We are seeking a Cybersecurity Analyst to join our team. The ideal candidate will have experience with network and system security, risk assessments, and incident response.",
+        "responsibility": "Conduct risk assessments and vulnerability testing. Develop and implement security policies and procedures. Monitor networks and systems for potential security threats. Respond to security incidents and breaches. Stay up-to-date with emerging trends and technologies in cybersecurity.",
+        "educational_requirements": "Bachelor's or Master's degree in Cybersecurity or a related field",
+        "experience": "5+ years of experience in cybersecurity or a related field",
+        "contract_info": {
+            "phone":"+0199XXXXXXX",
+            "email":"jkltech@email.com",
+            "address":"New York, S-4502"
+          }
+      },
+      {
+        "id": 8,
+        "company_logo": "https://logo.clearbit.com/www.clarivate.com",
+        "job_title": "Machine Learning Engineer",
+        "company_name": "MNO Data",
+        "job_type": "remote",
+        "location": "Canada",
+        "job_duration": "full-time",
+        "salary": "$180k - $300k",
+        "description": "We are looking for a talented Machine Learning Engineer to join our team. The ideal candidate will have experience with machine learning algorithms, deep learning frameworks, and big data processing.",
+        "responsibility": "Design and develop machine learning models and algorithms. Implement and optimize big data processing pipelines. Collaborate with cross-functional teams to identify and implement new features and functionality. Stay up-to-date with emerging trends and technologies in machine learning and big data processing.",
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science, Statistics, or a related field",
+        "experience": "5+ years of experience in machine learning or a related field",
+        "contract_info": {
+            "phone":"+0199XXXXXXX",
+            "email":"mhodata@email.com",
+            "address":"Canada"
+          }
+      },
+      {
+        "id": 9,
+        "company_logo": "https://logo.clearbit.com/dative.io",
+        "job_title": "Cloud Architect",
+        "company_name": "PQR Cloud",
+        "job_type": "onsite",
+        "location": "Seattle",
+        "job_duration": "full-time",
+        "salary": "$160k - $250k",
+        "description": "We are seeking a Cloud Architect to join our team. The ideal candidate will have experience with cloud infrastructure design, implementation, and management.",
+        "responsibility": "Design and implement cloud infrastructure solutions. Collaborate with cross-functional teams to identify and implement new features and functionality. Optimize cloud infrastructure for performance, scalability, and cost-effectiveness. Stay up-to-date with emerging trends and technologies in cloud computing.",
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field",
+        "experience": "7+ years of experience in cloud architecture or a related field",
+        "contract_info": {
+            "phone":"+0199XXXXXXX",
+            "email":"example@email.com",
+            "address":"Sattle, Nepal"
+          }
+      },
+      {
+        "id": 10,
+        "company_logo": "https://ugc.trycircular.com/image_2662019a-afb6-4a03-a21f-63868b84afce.PNG",
+        "job_title": "Frontend Developer",
+        "company_name": "XYZ Software",
+        "job_type": "remote",
+        "location": "Dhelli, India",
+        "job_duration": "part-time",
+        "salary": "$60k - $100k",
+        "description": "We are looking for a Frontend Developer to join our team. The ideal candidate will have experience with frontend web development, JavaScript frameworks, and responsive design.",
+        "responsibility": "Develop and maintain frontend web applications. Collaborate with cross-functional teams to identify and implement new features and functionality. Optimize frontend applications for performance and user experience. Stay up-to-date with emerging trends and technologies in frontend web development.",
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field",
+        "experience": "3+ years of experience in frontend web development or a related field",
+        "contract_info": {
+            "phone":"+0199XXXXXXX",
+            "email":"example@email.com",
+            "address":"Dhelli, India"
+          }
+      }            
+  ]
+}
